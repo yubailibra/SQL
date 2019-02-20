@@ -1,1 +1,1 @@
-#This repository contains solutions to assignments of the SQL class in the 2015 summer bridge workshop offered by CUNY
+#This repository contains solutions to SQL exercises in the 2015 summer workshop offered by CUNY
